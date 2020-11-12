@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Complex_JSON_Parsing</string>
+
+    <string name="maps_api_key">AIzaSyDp2bYZyBBMtmvQKW38s7Y_VLTvwOypW1s</string>
 </resources>
